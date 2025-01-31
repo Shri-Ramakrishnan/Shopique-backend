@@ -1,0 +1,154 @@
+[{
+  "_id": {
+    "$oid": "679b16e7e3f9e2d967989e86"
+  },
+  "name": "OPPO K12x 5G",
+  "price": 12999,
+  "brand": "Oppo",
+  "image": "/uploads/mobiles/1738217191344.jpg",
+  "rating": 4.5,
+  "description": "\r\n6 GB RAM | 128 GB ROM | Expandable Upto 1 TB\r\n16.94 cm (6.67 inch) HD Display\r\n32MP + 2MP | 8MP Front Camera\r\n5100 mAh Battery\r\nDimensity 6300 Processor",
+  "stock": 23,
+  "route": "prodlist",
+  "category": "mobiles",
+  "deliverytime": "normal",
+  "createdAt": {
+    "$date": "2025-01-30T06:06:31.382Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-30T06:06:31.382Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679b17fee3f9e2d967989e94"
+  },
+  "name": "Nothing Phone (2a)",
+  "price": 22999,
+  "brand": "Nothing",
+  "image": "/uploads/mobiles/1738217566716.jpg",
+  "rating": 3,
+  "description": "8 GB RAM | 128 GB ROM\r\n17.02 cm (6.7 inch) Full HD+ Display\r\n50MP (OIS) + 50MP | 32MP Front Camera\r\n5000 mAh Battery\r\nDimensity 7200 Pro Processor",
+  "stock": 25,
+  "route": "prodlist",
+  "category": "mobiles",
+  "deliverytime": "normal",
+  "createdAt": {
+    "$date": "2025-01-30T06:11:10.188Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-30T06:12:46.721Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679b18ece3f9e2d967989eac"
+  },
+  "name": "Motorola Edge 50 Fusion",
+  "price": 23999,
+  "brand": "Motorola",
+  "image": "/uploads/mobiles/1738217708127.jpg",
+  "rating": 4.5,
+  "description": "12 GB RAM | 256 GB ROM\r\n17.02 cm (6.7 inch) Full HD+ Display\r\n50MP + 13MP | 32MP Front Camera\r\n5000 mAh Battery\r\n7s Gen 2 Processor",
+  "stock": 25,
+  "route": "prodlist",
+  "category": "mobiles",
+  "deliverytime": "",
+  "createdAt": {
+    "$date": "2025-01-30T06:15:08.131Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-30T06:15:08.131Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679b1942e3f9e2d967989eae"
+  },
+  "name": "Realme P2 Pro 5G",
+  "price": 19999,
+  "brand": "Realme",
+  "image": "/uploads/mobiles/1738217794956.jpg",
+  "rating": 3,
+  "description": "\r\n8 GB RAM | 128 GB ROM\r\n17.02 cm (6.7 inch) Full HD+ Display\r\n50MP + 8MP | 32MP Front Camera\r\n5200 mAh Battery\r\n7s Gen2 Processor",
+  "stock": 24,
+  "route": "prodlist",
+  "category": "mobiles",
+  "deliverytime": "normal",
+  "createdAt": {
+    "$date": "2025-01-30T06:16:34.962Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-30T06:16:34.962Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679b19b1e3f9e2d967989eb6"
+  },
+  "name": "vivo T3 Lite 5G",
+  "price": 10499,
+  "brand": "Vivo",
+  "image": "/uploads/mobiles/1738217905773.jpg",
+  "rating": 4.8,
+  "description": "4 GB RAM | 128 GB ROM | Expandable Upto 1 TB\r\n16.66 cm (6.56 inch) Display\r\n50MP + 2MP | 8MP Front Camera\r\n5000 mAh Battery\r\nDimensity 6300 Processor",
+  "stock": 25,
+  "route": "prodlist",
+  "category": "mobiles",
+  "deliverytime": "normal",
+  "createdAt": {
+    "$date": "2025-01-30T06:18:25.777Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-30T06:18:25.777Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679b1a0fe3f9e2d967989ebe"
+  },
+  "name": "Infinix Zero Flip 5G",
+  "price": 49999,
+  "brand": "Infinix",
+  "image": "/uploads/mobiles/1738217999835.jpg",
+  "rating": 4.7,
+  "description": "8 GB RAM | 512 GB ROM\r\n17.53 cm (6.9 inch) Full HD+ Display\r\n50MP + 50MP | 50MP Front Camera\r\n4720 mAh Lithium-ion Polymer Battery\r\nDimensity 8020 Processor",
+  "stock": 25,
+  "route": "prodlist",
+  "category": "mobiles",
+  "deliverytime": "normal",
+  "createdAt": {
+    "$date": "2025-01-30T06:19:59.837Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-30T06:19:59.837Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679b1a91e3f9e2d967989ec6"
+  },
+  "name": "Google Pixel 8",
+  "price": 50999,
+  "brand": "Google Pixel",
+  "image": "/uploads/mobiles/1738218129657.jpg",
+  "rating": 4.8,
+  "description": "8 GB RAM | 256 GB ROM\r\n15.75 cm (6.2 inch) Full HD+ Display\r\n50MP + 12MP | 10.5MP Front Camera\r\n4575 mAh Battery\r\nTensor G3 Processor",
+  "stock": 25,
+  "route": "prodlist",
+  "category": "mobiles",
+  "deliverytime": "normal",
+  "createdAt": {
+    "$date": "2025-01-30T06:22:09.660Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-30T06:22:09.660Z"
+  },
+  "__v": 0
+}]

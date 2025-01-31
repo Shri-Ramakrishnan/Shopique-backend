@@ -25,7 +25,7 @@ app.use("/api/orders", orderRoutes);
 app.use("/api/admin", adminRoutes);
 
 // MongoDB Connection
-mongoose.connect("mongodb://127.0.0.1:27017/Ecommerse")
+mongoose.connect("mongodb+srv://sabarim63690122:Sabari.m6369@sabarim63690122.1oeqz.mongodb.net/ecommerse")
   .then(() => console.log("MongoDB connected..."))
   .catch((err) => console.log("Error connecting to MongoDB: ", err));
 
