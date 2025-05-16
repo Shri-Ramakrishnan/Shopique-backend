@@ -2,7 +2,7 @@ const express = require("express");
 const multer = require("multer"); 
 const path = require("path");
 const mongoose = require("mongoose");
-const {mobile, cloth, homeappliances} = require("./models/products")
+const {mobile, cloth} = require("./models/products")
 
 const router = express.Router();
 
